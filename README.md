@@ -4,3 +4,6 @@ Platform for collaboration: discussing presentations and videos using text and v
 #### Technologies
 * Python (Flask)
 * Javascript (socket.io, jquery)
+#### Technologies
+* Python (Flask)
+* Javascript (socket.io, jquery)
